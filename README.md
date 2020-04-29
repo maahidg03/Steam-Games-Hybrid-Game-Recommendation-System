@@ -16,4 +16,5 @@ The repository includes the following:
 **Autoencoder.ipynb** : Contains an implementation to an alternative to using SVD as a latent factor model for rating prediction
 
 **Project report** : A step by step description of our project
+
 **dataset files** : 2 dataset files , australian_user_reviews and steam_bundles are added in the repo. However the third file was too big for git and cannot therefore be taken from the dataset link. The missing file is australian_users_items
